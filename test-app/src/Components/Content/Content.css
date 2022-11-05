@@ -1,0 +1,95 @@
+
+.card {
+	margin-bottom: 60px;
+	display: flex;
+	flex-direction: column;
+
+}
+
+
+.cardone {
+	display: flex;
+	flex-direction: row;	
+}
+
+.main_wrap {
+	display: flex;
+	flex-direction: row;
+}
+.icon-wrap {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	justify-content: flex-start;
+	align-content: flex-start;
+	margin-left: 60px;
+}
+
+.card-wrap {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	margin-top: 10px;
+}
+.icon-Wrap {
+	margin-left: 70px;
+}
+/* .register {
+} */
+
+.client {
+	display: flex;
+}
+
+.btn-avatar {
+	display: flex;
+	flex-direction: row;
+}
+
+.card-wrap {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+}
+.btn {
+	display: flex;
+	margin-bottom: 10px;
+}
+
+.main-cover {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	align-items: center;
+	align-content: space-between;
+}
+
+.main-wrapped {
+	display: flex;
+	flex-direction: row;
+}
+
+.main_header{
+	display: flex;
+	flex-direction: row;
+    justify-content: space-between;
+}
+
+.type_wrap{
+	display:flex;
+	flex-direction:row;
+	align-items: center;
+}
+
+.both_wrap{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+.tag{
+	display: flex;
+    flex-direction: row;
+	margin-bottom:20px
+
+}

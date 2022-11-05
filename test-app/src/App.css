@@ -1,0 +1,24 @@
+.conten-container {
+	flex: 1;
+  padding-top: 100px;
+}
+.home-container {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	/* flex: 1; */
+}
+.card-box {
+	display: flex;
+	flex: 1;
+}
+/* .card-box div{
+	flex-basis: 50%;
+} */
+
+	.combine {
+		display: flex;
+		flex-direction: column;
+		justify-content: space-evenly;
+		flex: 1 1;
+}
